@@ -2,7 +2,7 @@
 
 I'm a software engineer. ⚽️
 
-### 🌱 my skills
+## 🌱 My skills
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,react,nextjs,tailwind,supabase,python,aws,azure,git,github,githubactions" />
 
