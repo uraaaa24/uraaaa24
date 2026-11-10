@@ -12,19 +12,18 @@ I'm a software engineer. ⚽️
     srcset="./assets/football-light.png"
   />
   <img
-    src="./assets/football-dark.png"
-    alt="Hand-drawn football illustration"
+    src="./assets/football-light.png"
     width="100%"
   />
 </picture>
 
 ### Tech stack
 
-**Frontend**  
-TypeScript, React, Next.js
+**Frontend** — TypeScript · React · Next.js · Tailwind CSS
 
-**Backend**  
-Python, FastAPI
+**Backend** — Python · FastAPI · SQLAlchemy · PostgreSQL
+
+**Infrastructure** — Azure · Google Cloud · Vercel
 
 ### Elsewhere
 
