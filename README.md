@@ -1,39 +1,32 @@
 
 # Hi there 👋
 
+I'm a software engineer. ⚽️
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./assets/header-dark.svg"
+    srcset="./assets/football-dark.png"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./assets/header-light.svg"
+    srcset="./assets/football-light.png"
   />
   <img
-    src="./assets/header-light.svg"
-    alt="Coffee, football, and notebook illustrations"
+    src="./assets/football-dark.png"
+    alt="Hand-drawn football illustration"
     width="100%"
   />
 </picture>
 
-I'm a software engineer. ⚽️
+### Tech stack
 
-I mainly work with TypeScript, React, Next.js, and Python.  
+**Frontend**  
+TypeScript, React, Next.js
 
-<br>
+**Backend**  
+Python, FastAPI
 
-### TECH STACK
+### Elsewhere
 
-| | |
-| :--- | :--- |
-| **Frontend** | TypeScript · React · Next.js |
-| **Backend** | Python · FastAPI |
-
-<br>
-
-### ELSEWHERE
-
-**[urarara.me](https://urarara.me)**
-
-<br>
+[urarara.me](https://urarara.me)
