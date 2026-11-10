@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="148" viewBox="0 0 960 148" role="img" aria-labelledby="title desc">
+<title id="title">A quiet note</title>
+<desc id="desc">Small hand-drawn sketches of a coffee cup, a football and a notebook joined by a gently uneven pencil line.</desc>
+<g fill="none" stroke="#d8d8d8" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round">
+<!-- pencil line / imperfect by intent -->
+<path d="M22 88 C94 86 117 90 181 87 M263 87 C318 89 367 86 419 88 M520 87 C594 85 654 90 718 87 M814 88 C865 86 903 89 938 87" stroke="#8e8e8e" stroke-width="1.1"/>
+<!-- coffee cup: hand-drawn handle and saucer -->
+<path d="M186 63 Q187 58 194 59 L242 60 Q246 60 245 65 L241 99 Q239 106 230 107 L204 106 Q193 105 191 97 Z"/>
+<path d="M245 67 Q267 64 266 81 Q264 95 243 92"/>
+<path d="M183 113 Q219 116 256 112" stroke-width="1.25"/>
+<path d="M205 50 C198 40 208 35 204 25 M222 52 C216 44 227 36 222 28" stroke="#8e8e8e" stroke-width="1.2"/>
+<!-- tiny pencil hatching -->
+<path d="M193 69 l-4 -2 M238 103 l5 3" stroke="#8e8e8e" stroke-width="1"/>
+<!-- soccer ball, deliberately subtle -->
+<path d="M463 60 C480 58 498 71 499 88 C500 107 488 119 469 119 C451 117 439 104 439 87 C440 73 447 63 463 60 Z"/>
+<path d="M464 78 L479 75 L487 87 L480 100 L465 101 L457 88 Z M464 78 L458 65 M479 75 L482 66 M487 87 L497 84 M480 100 L486 113 M465 101 L457 115 M457 88 L440 86" stroke-width="1.2"/>
+<!-- notebook pages / lightly imperfect cover -->
+<path d="M743 55 Q755 52 767 57 L784 64 Q796 57 811 56 L814 108 Q797 105 785 113 Q769 105 744 109 Z"/>
+<path d="M784 64 Q785 82 785 113 M752 69 Q764 67 775 73 M752 79 Q765 77 775 83 M793 74 Q799 70 806 70 M793 84 Q801 80 806 81" stroke-width="1.15"/>
+<!-- two sparse notebook margin marks -->
+<path d="M31 70 l8 -3 M34 106 l9 3 M919 70 l9 -3" stroke="#8e8e8e" stroke-width="1"/>
+</g>
+</svg>
